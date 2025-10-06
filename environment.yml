@@ -5,5 +5,3 @@ dependencies:
   - pandas
   - tensorflow
   - pip
-  - pip:
-      - any-other-required-pypi-package
